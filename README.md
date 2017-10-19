@@ -1,2 +1,1 @@
-"# Medical-AR" 
-"# Medical-AR          " 
+# Medical-AR
