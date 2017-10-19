@@ -1,1 +1,3 @@
-"" 
+# Only include Latex Notes PDF
+Notes/*
+!Notes/*.pdf
